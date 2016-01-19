@@ -1,6 +1,6 @@
 {
   "name": "random-access-open",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open a file for random access read / write and create the file if it doesn't exist",
   "main": "index.js",
   "dependencies": {},
