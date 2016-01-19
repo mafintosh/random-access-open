@@ -6,6 +6,8 @@ Open a file for random access read / write and create the file if it doesn't exi
 npm install random-access-open
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/random-access-open.svg?style=flat)](http://travis-ci.org/mafintosh/random-access-open)
+
 ## Usage
 
 ``` js
