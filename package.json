@@ -1,0 +1,24 @@
+{
+  "name": "random-access-open",
+  "version": "0.0.0",
+  "description": "Open a file for random access read / write and create the file if it doesn't exist",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "tape": "^4.4.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/random-access-open.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/random-access-open/issues"
+  },
+  "homepage": "https://github.com/mafintosh/random-access-open"
+}
