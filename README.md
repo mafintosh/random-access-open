@@ -26,6 +26,16 @@ open('hello.txt', function (err, fd) {
 })
 ```
 
+## API
+
+#### `open(filename, callback)`
+
+Open a file for random access read / writes. Callback is called with `(err, fd)`
+
+#### `var fd = open.sync(filename)`
+
+Same as above but sync
+
 ## License
 
 MIT
